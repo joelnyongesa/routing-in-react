@@ -1,0 +1,19 @@
+{
+    "quotes":[
+        {
+            "id": 1,
+            "author": "Joel Nyongesa",
+            "quote": "Once bitten always shy"
+        },
+        {
+            "id": 2,
+            "author": "Medrine Mulindi",
+            "quote": "My laptop is frozen"
+        },
+        {
+            "id": 3,
+            "author": "Mucsin Yusuf",
+            "quote": "I have a mbloka"
+        }
+    ]
+}
